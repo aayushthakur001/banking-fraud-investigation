@@ -1,0 +1,10 @@
+claim_id,customer_id,transaction_id,claim_type,claim_date,customer_statement,claim_status,assigned_analyst,notes
+CLM1001,CUST101,TX1121,Unauthorized Transaction,2026-09-04,I did not make this online transaction.,Received,,
+CLM1002,CUST102,TX1122,Card Transaction Dispute,2026-09-04,I do not recognize these rapid online transactions.,Received,,
+CLM1003,CUST103,TX1124,ATM Cash Withdrawal Dispute,2026-09-04,I was not in Singapore when these ATM withdrawals occurred.,Received,,
+CLM1004,CUST104,TX1126,Unauthorized Transaction,2026-09-04,This merchant transaction was not authorized by me.,Received,,
+CLM1005,CUST105,TX1127,Other,2026-09-04,I am travelling and want this transaction checked.,Received,,
+CLM1006,CUST106,TX1128,Duplicate Transaction,2026-09-04,I believe I was charged twice for the same purchase.,Received,,
+CLM1007,CUST107,TX1131,Unauthorized Transaction,2026-09-04,The large online purchase was not made by me.,Received,,
+CLM1008,CUST108,TX1133,ATM Cash Withdrawal Dispute,2026-09-04,I did not make these ATM withdrawals.,Received,,
+CLM1009,CUST109,TX1136,Unauthorized Transaction,2026-09-04,I do not recognize the international purchase.,Received,,

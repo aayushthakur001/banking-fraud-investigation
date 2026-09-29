@@ -1,0 +1,138 @@
+transaction_id,customer_id,card_type,amount,merchant_name,merchant_category,timestamp,location,channel,domestic_international,is_new_merchant,is_new_location,transaction_status
+TX1001,CUST102,Debit,950,City Pharmacy,Healthcare,2026-09-01 09:00,Mumbai,POS,Domestic,No,No,Approved
+TX1002,CUST102,Debit,220,MovieHouse,Entertainment,2026-09-01 09:15,Mumbai,POS,Domestic,No,No,Approved
+TX1003,CUST104,Debit,4800,Grocery Mart,Grocery,2026-09-01 09:27,Hyderabad,POS,Domestic,No,No,Approved
+TX1004,CUST107,Debit,6500,Coffee Corner,Food,2026-09-01 10:08,Kolkata,Online,Domestic,No,No,Approved
+TX1005,CUST103,Credit,1200,Utility Services,Utilities,2026-09-01 10:15,Chennai,POS,Domestic,No,No,Approved
+TX1006,CUST106,Debit,2500,Metro Fuel,Fuel,2026-09-01 10:35,Bengaluru,POS,Domestic,No,No,Approved
+TX1007,CUST106,Credit,3200,Grocery Mart,Grocery,2026-09-01 11:04,Bengaluru,ATM,Domestic,No,No,Approved
+TX1008,CUST107,Debit,6500,City Pharmacy,Healthcare,2026-09-01 11:18,Kolkata,Online,Domestic,No,No,Approved
+TX1009,CUST104,Debit,950,Grocery Mart,Grocery,2026-09-01 12:01,Hyderabad,Online,Domestic,No,No,Approved
+TX1010,CUST104,Debit,1200,MovieHouse,Entertainment,2026-09-01 12:13,Hyderabad,Online,Domestic,No,No,Approved
+TX1011,CUST103,Credit,950,Utility Services,Utilities,2026-09-01 12:43,Chennai,ATM,Domestic,No,No,Approved
+TX1012,CUST102,Debit,680,Amazon Demo,E-Commerce,2026-09-01 13:07,Mumbai,Online,Domestic,No,No,Approved
+TX1013,CUST105,Debit,220,Utility Services,Utilities,2026-09-01 13:38,Pune,POS,Domestic,No,No,Approved
+TX1014,CUST106,Credit,450,City Pharmacy,Healthcare,2026-09-01 13:47,Bengaluru,POS,Domestic,No,No,Approved
+TX1015,CUST106,Debit,2500,Coffee Corner,Food,2026-09-01 14:30,Bengaluru,ATM,Domestic,No,No,Approved
+TX1016,CUST103,Credit,950,QuickEats,Food,2026-09-01 15:06,Chennai,ATM,Domestic,No,No,Approved
+TX1017,CUST109,Credit,6500,MovieHouse,Entertainment,2026-09-01 15:48,Noida,Online,Domestic,No,No,Approved
+TX1018,CUST104,Debit,450,Coffee Corner,Food,2026-09-01 16:18,Hyderabad,POS,Domestic,No,No,Approved
+TX1019,CUST103,Debit,6500,MovieHouse,Entertainment,2026-09-01 16:32,Chennai,POS,Domestic,No,No,Approved
+TX1020,CUST107,Credit,4800,City Pharmacy,Healthcare,2026-09-01 17:03,Kolkata,POS,Domestic,No,No,Approved
+TX1021,CUST109,Credit,450,Utility Services,Utilities,2026-09-01 17:17,Noida,Online,Domestic,No,No,Approved
+TX1022,CUST103,Credit,1200,Grocery Mart,Grocery,2026-09-01 17:51,Chennai,ATM,Domestic,No,No,Approved
+TX1023,CUST109,Debit,4800,City Pharmacy,Healthcare,2026-09-01 18:09,Noida,ATM,Domestic,No,No,Approved
+TX1024,CUST103,Credit,4800,QuickEats,Food,2026-09-01 18:28,Chennai,ATM,Domestic,No,No,Approved
+TX1025,CUST110,Credit,220,Coffee Corner,Food,2026-09-01 18:35,Ahmedabad,POS,Domestic,No,No,Approved
+TX1026,CUST105,Debit,950,Grocery Mart,Grocery,2026-09-01 19:05,Pune,ATM,Domestic,No,No,Approved
+TX1027,CUST102,Credit,4800,Metro Fuel,Fuel,2026-09-01 19:17,Mumbai,POS,Domestic,No,No,Approved
+TX1028,CUST108,Debit,4800,City Pharmacy,Healthcare,2026-09-01 19:32,Jaipur,ATM,Domestic,No,No,Approved
+TX1029,CUST104,Debit,2500,City Pharmacy,Healthcare,2026-09-01 20:06,Hyderabad,ATM,Domestic,No,No,Approved
+TX1030,CUST108,Credit,950,Metro Fuel,Fuel,2026-09-01 20:36,Jaipur,POS,Domestic,No,No,Approved
+TX1031,CUST106,Debit,6500,Amazon Demo,E-Commerce,2026-09-01 20:47,Bengaluru,POS,Domestic,No,No,Approved
+TX1032,CUST102,Debit,450,Amazon Demo,E-Commerce,2026-09-01 20:54,Mumbai,POS,Domestic,No,No,Approved
+TX1033,CUST102,Debit,3200,City Pharmacy,Healthcare,2026-09-01 21:22,Mumbai,POS,Domestic,No,No,Approved
+TX1034,CUST103,Credit,3200,Amazon Demo,E-Commerce,2026-09-01 22:03,Chennai,Online,Domestic,No,No,Approved
+TX1035,CUST102,Debit,1800,MovieHouse,Entertainment,2026-09-01 22:22,Mumbai,Online,Domestic,No,No,Approved
+TX1036,CUST108,Debit,220,Metro Fuel,Fuel,2026-09-01 22:55,Jaipur,Online,Domestic,No,No,Approved
+TX1037,CUST102,Debit,950,Amazon Demo,E-Commerce,2026-09-01 23:23,Mumbai,ATM,Domestic,No,No,Approved
+TX1038,CUST103,Credit,1200,QuickEats,Food,2026-09-01 23:58,Chennai,Online,Domestic,No,No,Approved
+TX1039,CUST102,Credit,220,Metro Fuel,Fuel,2026-09-02 00:20,Mumbai,ATM,Domestic,No,No,Approved
+TX1040,CUST101,Debit,680,Amazon Demo,E-Commerce,2026-09-02 01:01,Delhi,Online,Domestic,No,No,Approved
+TX1041,CUST108,Debit,220,MovieHouse,Entertainment,2026-09-02 01:39,Jaipur,POS,Domestic,No,No,Approved
+TX1042,CUST101,Credit,3200,City Pharmacy,Healthcare,2026-09-02 02:10,Delhi,Online,Domestic,No,No,Approved
+TX1043,CUST109,Credit,950,QuickEats,Food,2026-09-02 02:44,Noida,Online,Domestic,No,No,Approved
+TX1044,CUST101,Debit,220,Utility Services,Utilities,2026-09-02 03:04,Delhi,POS,Domestic,No,No,Approved
+TX1045,CUST108,Debit,4800,Grocery Mart,Grocery,2026-09-02 03:48,Jaipur,POS,Domestic,No,No,Approved
+TX1046,CUST102,Debit,2500,Amazon Demo,E-Commerce,2026-09-02 04:06,Mumbai,POS,Domestic,No,No,Approved
+TX1047,CUST104,Debit,2500,Metro Fuel,Fuel,2026-09-02 04:49,Hyderabad,ATM,Domestic,No,No,Approved
+TX1048,CUST110,Credit,950,City Pharmacy,Healthcare,2026-09-02 05:33,Ahmedabad,ATM,Domestic,No,No,Approved
+TX1049,CUST104,Credit,680,MovieHouse,Entertainment,2026-09-02 06:00,Hyderabad,ATM,Domestic,No,No,Approved
+TX1050,CUST108,Credit,220,Metro Fuel,Fuel,2026-09-02 06:26,Jaipur,Online,Domestic,No,No,Approved
+TX1051,CUST102,Debit,4800,Amazon Demo,E-Commerce,2026-09-02 07:09,Mumbai,Online,Domestic,No,No,Approved
+TX1052,CUST106,Debit,1800,Amazon Demo,E-Commerce,2026-09-02 07:24,Bengaluru,Online,Domestic,No,No,Approved
+TX1053,CUST108,Credit,4800,Grocery Mart,Grocery,2026-09-02 07:41,Jaipur,Online,Domestic,No,No,Approved
+TX1054,CUST103,Credit,450,Metro Fuel,Fuel,2026-09-02 07:54,Chennai,ATM,Domestic,No,No,Approved
+TX1055,CUST103,Credit,6500,City Pharmacy,Healthcare,2026-09-02 08:36,Chennai,POS,Domestic,No,No,Approved
+TX1056,CUST104,Credit,1200,Coffee Corner,Food,2026-09-02 09:04,Hyderabad,POS,Domestic,No,No,Approved
+TX1057,CUST107,Credit,220,Grocery Mart,Grocery,2026-09-02 09:16,Kolkata,Online,Domestic,No,No,Approved
+TX1058,CUST105,Debit,4800,Coffee Corner,Food,2026-09-02 09:31,Pune,ATM,Domestic,No,No,Approved
+TX1059,CUST109,Debit,450,Metro Fuel,Fuel,2026-09-02 10:05,Noida,ATM,Domestic,No,No,Approved
+TX1060,CUST109,Debit,6500,Utility Services,Utilities,2026-09-02 10:21,Noida,ATM,Domestic,No,No,Approved
+TX1061,CUST107,Debit,1200,Grocery Mart,Grocery,2026-09-02 10:37,Kolkata,Online,Domestic,No,No,Approved
+TX1062,CUST106,Debit,450,Amazon Demo,E-Commerce,2026-09-02 10:46,Bengaluru,Online,Domestic,No,No,Approved
+TX1063,CUST107,Debit,680,Amazon Demo,E-Commerce,2026-09-02 11:28,Kolkata,POS,Domestic,No,No,Approved
+TX1064,CUST101,Debit,2500,Utility Services,Utilities,2026-09-02 12:01,Delhi,ATM,Domestic,No,No,Approved
+TX1065,CUST105,Debit,2500,Metro Fuel,Fuel,2026-09-02 12:23,Pune,POS,Domestic,No,No,Approved
+TX1066,CUST104,Debit,1800,Coffee Corner,Food,2026-09-02 13:00,Hyderabad,Online,Domestic,No,No,Approved
+TX1067,CUST104,Debit,2500,Amazon Demo,E-Commerce,2026-09-02 13:21,Hyderabad,Online,Domestic,No,No,Approved
+TX1068,CUST102,Credit,4800,Utility Services,Utilities,2026-09-02 13:45,Mumbai,Online,Domestic,No,No,Approved
+TX1069,CUST106,Debit,1200,Metro Fuel,Fuel,2026-09-02 14:26,Bengaluru,POS,Domestic,No,No,Approved
+TX1070,CUST105,Debit,6500,Metro Fuel,Fuel,2026-09-02 15:10,Pune,Online,Domestic,No,No,Approved
+TX1071,CUST106,Credit,2500,Metro Fuel,Fuel,2026-09-02 15:39,Bengaluru,ATM,Domestic,No,No,Approved
+TX1072,CUST105,Debit,220,MovieHouse,Entertainment,2026-09-02 15:58,Pune,ATM,Domestic,No,No,Approved
+TX1073,CUST104,Credit,450,MovieHouse,Entertainment,2026-09-02 16:39,Hyderabad,ATM,Domestic,No,No,Approved
+TX1074,CUST110,Credit,1200,Metro Fuel,Fuel,2026-09-02 17:07,Ahmedabad,ATM,Domestic,No,No,Approved
+TX1075,CUST107,Credit,1200,MovieHouse,Entertainment,2026-09-02 17:33,Kolkata,ATM,Domestic,No,No,Approved
+TX1076,CUST104,Credit,680,MovieHouse,Entertainment,2026-09-02 17:48,Hyderabad,ATM,Domestic,No,No,Approved
+TX1077,CUST105,Credit,1200,Grocery Mart,Grocery,2026-09-02 18:31,Pune,Online,Domestic,No,No,Approved
+TX1078,CUST107,Credit,3200,Coffee Corner,Food,2026-09-02 18:51,Kolkata,Online,Domestic,No,No,Approved
+TX1079,CUST109,Credit,450,QuickEats,Food,2026-09-02 19:11,Noida,Online,Domestic,No,No,Approved
+TX1080,CUST110,Credit,950,Metro Fuel,Fuel,2026-09-02 19:50,Ahmedabad,ATM,Domestic,No,No,Approved
+TX1081,CUST104,Debit,220,QuickEats,Food,2026-09-02 20:16,Hyderabad,POS,Domestic,No,No,Approved
+TX1082,CUST108,Debit,2500,Coffee Corner,Food,2026-09-02 20:38,Jaipur,ATM,Domestic,No,No,Approved
+TX1083,CUST104,Credit,2500,Coffee Corner,Food,2026-09-02 21:21,Hyderabad,POS,Domestic,No,No,Approved
+TX1084,CUST101,Debit,950,MovieHouse,Entertainment,2026-09-02 21:37,Delhi,POS,Domestic,No,No,Approved
+TX1085,CUST108,Debit,450,Amazon Demo,E-Commerce,2026-09-02 22:17,Jaipur,Online,Domestic,No,No,Approved
+TX1086,CUST108,Credit,6500,Coffee Corner,Food,2026-09-02 22:32,Jaipur,ATM,Domestic,No,No,Approved
+TX1087,CUST107,Credit,3200,QuickEats,Food,2026-09-02 23:11,Kolkata,Online,Domestic,No,No,Approved
+TX1088,CUST104,Credit,950,Coffee Corner,Food,2026-09-02 23:34,Hyderabad,Online,Domestic,No,No,Approved
+TX1089,CUST102,Credit,1200,Amazon Demo,E-Commerce,2026-09-03 00:09,Mumbai,Online,Domestic,No,No,Approved
+TX1090,CUST109,Debit,680,QuickEats,Food,2026-09-03 00:36,Noida,POS,Domestic,No,No,Approved
+TX1091,CUST103,Debit,2500,Metro Fuel,Fuel,2026-09-03 01:07,Chennai,Online,Domestic,No,No,Approved
+TX1092,CUST109,Credit,220,MovieHouse,Entertainment,2026-09-03 01:35,Noida,POS,Domestic,No,No,Approved
+TX1093,CUST107,Debit,3200,MovieHouse,Entertainment,2026-09-03 02:08,Kolkata,POS,Domestic,No,No,Approved
+TX1094,CUST105,Credit,4800,MovieHouse,Entertainment,2026-09-03 02:37,Pune,ATM,Domestic,No,No,Approved
+TX1095,CUST110,Debit,950,Coffee Corner,Food,2026-09-03 03:18,Ahmedabad,Online,Domestic,No,No,Approved
+TX1096,CUST108,Debit,1800,MovieHouse,Entertainment,2026-09-03 03:52,Jaipur,ATM,Domestic,No,No,Approved
+TX1097,CUST103,Credit,6500,QuickEats,Food,2026-09-03 04:24,Chennai,ATM,Domestic,No,No,Approved
+TX1098,CUST107,Debit,2500,Metro Fuel,Fuel,2026-09-03 04:32,Kolkata,POS,Domestic,No,No,Approved
+TX1099,CUST103,Debit,2500,City Pharmacy,Healthcare,2026-09-03 05:08,Chennai,Online,Domestic,No,No,Approved
+TX1100,CUST108,Credit,2500,Utility Services,Utilities,2026-09-03 05:28,Jaipur,Online,Domestic,No,No,Approved
+TX1101,CUST105,Debit,220,Coffee Corner,Food,2026-09-03 06:01,Pune,ATM,Domestic,No,No,Approved
+TX1102,CUST101,Credit,450,Amazon Demo,E-Commerce,2026-09-03 06:42,Delhi,ATM,Domestic,No,No,Approved
+TX1103,CUST101,Debit,220,Amazon Demo,E-Commerce,2026-09-03 06:51,Delhi,ATM,Domestic,No,No,Approved
+TX1104,CUST104,Debit,450,Coffee Corner,Food,2026-09-03 07:07,Hyderabad,ATM,Domestic,No,No,Approved
+TX1105,CUST108,Credit,680,Utility Services,Utilities,2026-09-03 07:27,Jaipur,ATM,Domestic,No,No,Approved
+TX1106,CUST102,Debit,450,City Pharmacy,Healthcare,2026-09-03 08:12,Mumbai,ATM,Domestic,No,No,Approved
+TX1107,CUST105,Credit,950,MovieHouse,Entertainment,2026-09-03 08:20,Pune,POS,Domestic,No,No,Approved
+TX1108,CUST104,Debit,6500,City Pharmacy,Healthcare,2026-09-03 09:04,Hyderabad,POS,Domestic,No,No,Approved
+TX1109,CUST101,Credit,1800,MovieHouse,Entertainment,2026-09-03 09:47,Delhi,POS,Domestic,No,No,Approved
+TX1110,CUST106,Debit,3200,MovieHouse,Entertainment,2026-09-03 10:26,Bengaluru,POS,Domestic,No,No,Approved
+TX1111,CUST106,Credit,2500,QuickEats,Food,2026-09-03 11:00,Bengaluru,POS,Domestic,No,No,Approved
+TX1112,CUST105,Credit,2500,Coffee Corner,Food,2026-09-03 11:40,Pune,ATM,Domestic,No,No,Approved
+TX1113,CUST105,Credit,450,Amazon Demo,E-Commerce,2026-09-03 12:24,Pune,Online,Domestic,No,No,Approved
+TX1114,CUST104,Credit,1800,MovieHouse,Entertainment,2026-09-03 12:59,Hyderabad,POS,Domestic,No,No,Approved
+TX1115,CUST106,Debit,950,Coffee Corner,Food,2026-09-03 13:37,Bengaluru,Online,Domestic,No,No,Approved
+TX1116,CUST106,Credit,4800,City Pharmacy,Healthcare,2026-09-03 14:00,Bengaluru,POS,Domestic,No,No,Approved
+TX1117,CUST104,Debit,2500,Amazon Demo,E-Commerce,2026-09-03 14:40,Hyderabad,Online,Domestic,No,No,Approved
+TX1118,CUST104,Credit,3200,Coffee Corner,Food,2026-09-03 15:22,Hyderabad,POS,Domestic,No,No,Approved
+TX1119,CUST105,Debit,950,MovieHouse,Entertainment,2026-09-03 15:34,Pune,Online,Domestic,No,No,Approved
+TX1120,CUST106,Credit,2500,Utility Services,Utilities,2026-09-03 16:18,Bengaluru,ATM,Domestic,No,No,Approved
+TX1121,CUST101,Debit,85000,Luxury Demo Store,Luxury,2026-09-04 20:20,Dubai,Online,International,Yes,Yes,Approved
+TX1122,CUST102,Credit,42000,Unknown Electronics,Electronics,2026-09-04 22:02,Mumbai,Online,Domestic,Yes,No,Approved
+TX1123,CUST102,Credit,39000,Unknown Electronics,Electronics,2026-09-04 22:04,Mumbai,Online,Domestic,Yes,No,Approved
+TX1124,CUST103,Debit,25000,Foreign ATM Demo,ATM,2026-09-05 16:20,Singapore,ATM,International,Yes,Yes,Approved
+TX1125,CUST103,Debit,22000,Foreign ATM Demo,ATM,2026-09-05 16:25,Singapore,ATM,International,Yes,Yes,Approved
+TX1126,CUST104,Credit,30000,High Risk Demo Merchant,High-Risk,2026-09-06 05:40,Goa,Online,Domestic,Yes,Yes,Approved
+TX1127,CUST105,Credit,18000,Travel Demo,Travel,2026-09-06 07:20,London,POS,International,No,Yes,Approved
+TX1128,CUST106,Debit,15000,Online Demo Store,E-Commerce,2026-09-06 22:20,Bengaluru,Online,Domestic,No,No,Approved
+TX1129,CUST106,Debit,15000,Online Demo Store,E-Commerce,2026-09-06 22:21,Bengaluru,Online,Domestic,No,No,Approved
+TX1130,CUST107,Debit,950,Online Demo Store,E-Commerce,2026-09-07 15:00,Kolkata,Online,Domestic,No,No,Approved
+TX1131,CUST107,Debit,1200,Online Demo Store,E-Commerce,2026-09-07 15:01,Kolkata,Online,Domestic,No,No,Approved
+TX1132,CUST107,Debit,48000,Unknown Demo Merchant,Electronics,2026-09-07 15:03,Delhi,Online,Domestic,Yes,Yes,Approved
+TX1133,CUST108,Debit,12000,ATM Demo 01,ATM,2026-09-08 07:40,Jaipur,ATM,Domestic,No,No,Approved
+TX1134,CUST108,Debit,12000,ATM Demo 02,ATM,2026-09-08 07:44,Jaipur,ATM,Domestic,No,No,Approved
+TX1135,CUST108,Debit,12000,ATM Demo 03,ATM,2026-09-08 07:48,Jaipur,ATM,Domestic,No,No,Approved
+TX1136,CUST109,Credit,67000,Luxury Demo Store,Luxury,2026-09-09 00:20,Bangkok,Online,International,Yes,Yes,Approved
+TX1137,CUST110,Credit,14000,Travel Demo,Travel,2026-09-09 17:00,Dubai,POS,International,No,Yes,Approved
